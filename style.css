@@ -9,8 +9,8 @@
   width: 560px;
   
   background-image: url('aakas.jpg');
-  background-size: cover;
-  height: 100%;
+  background-size: 100%;
+  
 }
 .card-wrapper .card {
   position: relative;
